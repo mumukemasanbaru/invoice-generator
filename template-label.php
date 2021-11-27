@@ -193,7 +193,7 @@
 	<form action="" method="POST" enctype="multipart/form-data" >
 		 <?php wp_nonce_field( 'LG-secure-nonce', 'LG-nonce' ); ?>  
 		<div class="container justify-content-center">
-			<section id="main-section" class="col-10 col-lg-10 offset-lg-1">
+			<section id="main-section" class="col-12 col-lg-10 offset-lg-1">
 				<div class="inner-wrap repeater">
 					<div class="head-wrap ">
 						<h1 class="page-title">Cetak Label Pengiriman</h1>
