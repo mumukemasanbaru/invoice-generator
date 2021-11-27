@@ -313,7 +313,7 @@
 				                    <input  class="form-input" type="text" name="item-order" value="123123123" id="item-order" placeholder="Nomor Telepon">
 				                </div>
 				                <div class="form-group">
-				                    <input  class="form-input"type="checkbox" id="resi-barcode" name="resi-barcode" value="1">
+				                    <input type="checkbox" id="resi-barcode" name="resi-barcode" value="1">
 				                    <label for="resi-barcode">Resi Barcode</label>
 				                </div>
 					        </div>
